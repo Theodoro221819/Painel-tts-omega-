@@ -1,4 +1,4 @@
-const url = "https://drive.google.com/uc?id=1vKgtGaT5N94b287vf7JeA_6m_TOKhk2q&export=download";
+const url "https://raw.githubusercontent.com/Theodoro221819/Painel-tts-omega/main/log_atual_2025-05-13_14-21-47.json";
 
 async function fetchData() {
   try {
