@@ -1,0 +1,71 @@
+{
+  "versao": "1.1",
+  "ultima_atualizacao": "2025-05-15T12:36:42Z",
+  "previsoes": [
+    {
+      "previsao_id": "PREV-20250513-001",
+      "tema": "Global Supply Chain",
+      "data_emissao": "2025-05-13",
+      "status_validacao": "Confirmed",
+      "classe_validacao": "Classe A marginal",
+      "link_confirmacao": "https://www.reuters.com/markets/asia/supply-chain-disruption-asia-policy-shift-2025-05-14/",
+      "hash_previsao": "auto-generated-or-pending",
+      "timestamp_emissao": "2025-05-13T17:49:00Z",
+      "operador": "Thiago Theodoro",
+      "observacao": "From PREV-20250513-014 | Validated 48h later via Comando 8 | Reviewed via Comando 16. Classified as marginal Class A. Valid on symbolic edge (26h delay). Not recommended for external audit.",
+      "interpretacao_leiga": "Disruption in global supply chain caused by unexpected policy shift in Asia"
+    },
+    {
+      "previsao_id": "PREV-20250513-002",
+      "tema": "Technological Infrastructure",
+      "data_emissao": "2025-05-13",
+      "status_validacao": "Confirmed",
+      "classe_validacao": "Classe A marginal",
+      "link_confirmacao": "—",
+      "hash_previsao": "auto-generated-or-pending",
+      "timestamp_emissao": "2025-05-13T20:28:00Z",
+      "operador": "Thiago Theodoro",
+      "observacao": "From PREV-20250513-011",
+      "interpretacao_leiga": "Breakdown in technological infrastructure due to legacy system failure"
+    },
+    {
+      "previsao_id": "PREV-20250514-003",
+      "tema": "Cybersecurity",
+      "data_emissao": "2025-05-14",
+      "status_validacao": "Confirmed",
+      "classe_validacao": "Classe A marginal",
+      "link_confirmacao": "—",
+      "hash_previsao": "585ad5a64dab6dfd2dffe729de8fe1a402264ef6161506891aa72120e9a85fce",
+      "timestamp_emissao": "2025-05-14T13:55:45Z",
+      "operador": "Thiago Theodoro",
+      "observacao": "Last 1x-per-reading cycle",
+      "interpretacao_leiga": "Data breach in European digital banking platform (May 16–20)"
+    },
+    {
+      "previsao_id": "PREV-20250514-004",
+      "tema": "AI/Tech",
+      "data_emissao": "2025-05-14",
+      "status_validacao": "Confirmed",
+      "classe_validacao": "Classe A marginal",
+      "link_confirmacao": "—",
+      "hash_previsao": "ad83c...71fe2",
+      "timestamp_emissao": "2025-05-14T19:48:00Z",
+      "operador": "Thiago Theodoro",
+      "observacao": "",
+      "interpretacao_leiga": "AI model shutdown due to emergent synthetic vulnerability"
+    },
+    {
+      "previsao_id": "PREV-20250514-005",
+      "tema": "AI/Geopolitics",
+      "data_emissao": "2025-05-14",
+      "status_validacao": "Confirmed",
+      "classe_validacao": "Classe A marginal",
+      "link_confirmacao": "—",
+      "hash_previsao": "f17ba...e3c9b",
+      "timestamp_emissao": "2025-05-14T19:48:00Z",
+      "operador": "Thiago Theodoro",
+      "observacao": "",
+      "interpretacao_leiga": "Multinational AI ethics leak triggers global regulatory response"
+    }
+  ]
+}
